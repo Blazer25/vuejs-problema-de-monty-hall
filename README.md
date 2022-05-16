@@ -1,2 +1,24 @@
-# vuejs-problema-de-monty-hall
-O paradoxo ou problema de Monty Hall considera que existem três portas, atrás de uma existe um prêmio e, atrás das outras duas não existe nada. Na primeira etapa uma pessoa escolhe uma porta (esta ainda não é aberta), após isso uma outra porta (que não foi a escolhida) é aberta e é revelado que não contém nada.
+# monty-hall-problem
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
